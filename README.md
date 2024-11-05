@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 I'm Samriddhi Sivakumar
+
+I'm a Computer Science student at the University of Washington specializing in Data Science and Artificial Intelligence/Machine Learning. I'm most passionate about exploring new technologies and creating meaningful and impactiful projects.
+
+- 🔭 I’m currently working on projects that blend data science and web development to enhance usability and performance.
+- 🌱 I’m currently learning Go and TypeScript, expanding my toolkit.
+- 👯 I’m looking to collaborate on projects involving machine learning, data-driven insights, and creative web applications.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samriddhisivakumar/) or [Email](sivakumar.samriddhi@gmail.com)
 
 <!--
 **SamriddhiS2/SamriddhiS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
