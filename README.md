@@ -5,7 +5,7 @@ I'm a Computer Science student at the University of Washington specializing in D
 - 🔭 I’m currently working on projects that blend data science and web development to enhance usability and performance.
 - 🌱 I’m currently learning Go and TypeScript, expanding my toolkit.
 - 👯 I’m looking to collaborate on projects involving machine learning, data-driven insights, and creative web applications.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samriddhisivakumar/) or [Email](sivakumar.samriddhi@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samriddhisivakumar/) or [Email](mailto:sivakumar.samriddhi@gmail.com)
 
 ## Skills
 ### 🤿 Languages
