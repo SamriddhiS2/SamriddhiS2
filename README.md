@@ -11,7 +11,7 @@ I'm a Computer Science student at the University of Washington specializing in D
 ### 🤿 Languages
 
 ### 🔨 Tools
-<img height="50" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png">
+<img height="25" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png">
 
 ### 🌐 Web Development
 
