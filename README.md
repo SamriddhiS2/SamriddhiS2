@@ -7,6 +7,8 @@ I'm a Computer Science student at the University of Washington specializing in D
 - 👯 I’m looking to collaborate on projects involving machine learning, data-driven insights, and creative web applications.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samriddhisivakumar/) or [Email](sivakumar.samriddhi@gmail.com)
 
+![](https://komarev.com/ghpvc/?username=SamriddhiS2&color=blueviolet&abbreviated=true)
+
 <!--
 **SamriddhiS2/SamriddhiS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
