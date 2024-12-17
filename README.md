@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Samriddhi Sivakumar
 
-I'm a Computer Science student at the University of Washington specializing in Data Science and Artificial Intelligence/Machine Learning. I'm most passionate about exploring new technologies and creating meaningful and impactiful projects.
+I'm a Computer Science student at the University of Washington specializing in Data Science and Artificial Intelligence/Machine Learning. I'm most passionate about exploring new technologies and creating meaningful and impactful projects.
 
 - 🔭 I’m currently working on projects that blend data science and web development to enhance usability and performance.
 - 🌱 I’m currently learning Go and TypeScript, expanding my toolkit.
